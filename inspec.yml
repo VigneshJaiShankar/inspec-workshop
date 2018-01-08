@@ -1,8 +1,8 @@
 name: inspec-workshop
-title: InSpec Profile
-maintainer: The Authors
+title: Mongrel2 Profile
+maintainer: Vignesh Jai Shankar
 copyright: The Authors
 copyright_email: you@example.com
-license: Apache-2.0
+license: BSD 3-clause
 summary: An InSpec Compliance Profile
-version: 0.1.0
+version: 1.11.0
