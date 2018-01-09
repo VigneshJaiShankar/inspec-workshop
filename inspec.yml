@@ -1,8 +1,8 @@
-name: inspec-workshop
+name: inspec_mongrel2
 title: Mongrel2 Profile
 maintainer: Vignesh Jai Shankar
-copyright: The Authors
-copyright_email: you@example.com
+copyright: Vignesh Jai Shankar
+copyright_email: vignesh.k@8kmiles.com
 license: BSD 3-clause
-summary: An InSpec Compliance Profile
+summary: Mongrel2 web server testing 
 version: 1.11.0

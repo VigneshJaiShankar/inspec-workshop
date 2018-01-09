@@ -1,3 +1,4 @@
-# Example InSpec Profile
+# Mongrel2 Inspec Profile
 
-This example shows the implementation of an InSpec profile.
+
+This contains the inspec module for mongrel2 web server
